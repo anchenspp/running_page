@@ -16,7 +16,7 @@ const data: ISiteMetadataResult = {
   description: 'Personal site and blog',
   navLinks: [
     {
-      name: 'Blog', #navigation name
+      name: 'Blog',
       url: 'https://anchen.me/',
     },
     {
